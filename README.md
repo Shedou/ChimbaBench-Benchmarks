@@ -1,5 +1,5 @@
 # ChimbaBench-Benchmarks
-Данная страница содержит список бенчмарков семейства ChimbaBench.\
+Данная страница содержит список бенчмарков семейства ChimbaBench.
 
 ## ChimbaBenchCL
 В разработке...
