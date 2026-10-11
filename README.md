@@ -1,8 +1,10 @@
 # ChimbaBench-Benchmarks
 Данная страница содержит список бенчмарков семейства ChimbaBench.
 
-## ChimbaBenchCL
-В разработке...
+## ChimbaBenchCL [![Github Releases](https://img.shields.io/github/downloads/Shedou/ChimbaBenchCL/total.svg)](https://github.com/Shedou/ChimbaBenchCL/releases)
+Легковесный бенчмарк для тестирования производительности GPU и CPU, использующий OpenCL API и совместимый с 64-разрядными ОС Windows, Linux и FreeBSD.
+
+[https://github.com/Shedou/ChimbaBenchCL](https://github.com/Shedou/ChimbaBenchCL)
 
 ## ChimbaBenchXPL [![Github Releases](https://img.shields.io/github/downloads/Shedou/ChimbaBenchXPL/total.svg)](https://github.com/Shedou/ChimbaBenchXPL/releases)
 Бенчмарк основанный на игровом движке Godot Engine 2, совместимый с Windows XP+ / Debian 8+ и прочими дистрибутивами Linux.\
