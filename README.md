@@ -6,7 +6,7 @@
 
 ## ChimbaBenchXPL [![Github Releases](https://img.shields.io/github/downloads/Shedou/ChimbaBenchXPL/total.svg)](https://github.com/Shedou/ChimbaBenchXPL/releases)
 Бенчмарк основанный на игровом движке Godot Engine 2, совместимый с Windows XP+ / Debian 8+ и прочими дистрибутивами Linux.\
-Пассчитан на видеокарты с поддержкой OpenGL 2.1 (GeForce 6000+ или Radeon HD 2000+).
+Рассчитан на видеокарты с поддержкой OpenGL 2.1 (GeForce 6000+ или Radeon HD 2000+).
 
 [https://github.com/Shedou/ChimbaBenchXPL](https://github.com/Shedou/ChimbaBenchXPL)
 
